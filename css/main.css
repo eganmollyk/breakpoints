@@ -1,4 +1,5 @@
-
+@media (min-wdith: 767px)
+	
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
 	body {
@@ -7,8 +8,8 @@
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
-@media (mid-width: 1200px) {
+@media (min-width: 1200px) {
 	body {
-		background: pink;
+		background: coral;
 	}
 }
