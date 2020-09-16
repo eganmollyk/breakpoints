@@ -1,4 +1,4 @@
-@media (min-wdith: 767px)
+@media (max-wdith: 767px)
 	
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
